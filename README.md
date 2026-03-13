@@ -1,2 +1,0 @@
-# mahjong-classic
-mahjong-classic
